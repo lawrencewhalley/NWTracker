@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FinalYearProject\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj": {}
+    "C:\\Users\\lawre\\OneDrive\\Documents\\NWTracker\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj": {}
   },
   "projects": {
-    "C:\\FinalYearProject\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj": {
+    "C:\\Users\\lawre\\OneDrive\\Documents\\NWTracker\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FinalYearProject\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj",
+        "projectUniqueName": "C:\\Users\\lawre\\OneDrive\\Documents\\NWTracker\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj",
         "projectName": "FinalYearProject",
-        "projectPath": "C:\\FinalYearProject\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj",
+        "projectPath": "C:\\Users\\lawre\\OneDrive\\Documents\\NWTracker\\FinalYearProject\\FinalYearProject\\FinalYearProject.fsproj",
         "packagesPath": "C:\\Users\\lawre\\.nuget\\packages\\",
-        "outputPath": "C:\\FinalYearProject\\FinalYearProject\\FinalYearProject\\obj\\",
+        "outputPath": "C:\\Users\\lawre\\OneDrive\\Documents\\NWTracker\\FinalYearProject\\FinalYearProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lawre\\AppData\\Roaming\\NuGet\\NuGet.Config",
